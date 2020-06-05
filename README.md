@@ -1,7 +1,7 @@
-# R-Ladies Eskisehir (Moderator)
+# R-Ladies Eskisehir Webinar4
+(Moderator)
 #### together with RLadies İstanbul and RLadies Ankara
 
-Webinar4
 
 12.06.2020
 
