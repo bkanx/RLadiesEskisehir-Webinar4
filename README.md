@@ -1,8 +1,6 @@
 # R-Ladies Eskisehir Webinar4
 
-<img src="https://github.com/bkanx/R-Ladies-EskisehR-Stickers/blob/master/Init.png" width="200">
-
-(Moderator)
+<img src="https://github.com/bkanx/R-Ladies-EskisehR-Stickers/blob/master/Init.png" width="200"> (Moderator)
 
 #### together with RLadies İstanbul and RLadies Ankara
 
