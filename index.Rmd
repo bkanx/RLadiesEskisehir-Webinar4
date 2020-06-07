@@ -84,15 +84,15 @@ knitr::include_graphics('slide5.png')
 
 --
 
-  İstanbul, 2016
+  İstanbul, Eylül 2016
  
 --
  
-  Ankara, 2019
+  Ankara, Haziran 2019
  
 --
 
-  Eskişehir, 2019
+  Eskişehir, Ekim 2019
   
 ---
 
@@ -110,7 +110,7 @@ knitr::include_graphics('slide6ek-ladies.png')
 ```
 --
 
-```{r, echo=FALSE,out.width="70%",fig.align='center'}
+```{r, echo=FALSE,out.width="50%",fig.align='center'}
 knitr::include_graphics('etkinlik5.png')
 ```
 
