@@ -105,12 +105,12 @@ knitr::include_graphics('kurucular.png')
 
 --
 
-```{r, echo=FALSE,out.width="80%",fig.align='center'}
+```{r, echo=FALSE,out.width="70%",fig.align='center'}
 knitr::include_graphics('slide6ek-ladies.png')
 ```
 --
 
-```{r, echo=FALSE,out.width="80%",fig.align='center'}
+```{r, echo=FALSE,out.width="70%",fig.align='center'}
 knitr::include_graphics('etkinlik5.png')
 ```
 
