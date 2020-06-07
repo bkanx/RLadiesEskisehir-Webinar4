@@ -9,8 +9,6 @@
 
 # Sen de yaz yaz yaz RMarkdown ile her istediğini
 
-Yard.Doç.Dr. Mine Doğucu
+## Yard.Doç.Dr. Mine Doğucu
   
-Kalifornia Üniversitesi Irvine
- 
-İstatistik Bölümü
+    - Kalifornia Üniversitesi Irvine /İstatistik Bölümü
