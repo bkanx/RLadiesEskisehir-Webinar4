@@ -5,7 +5,7 @@
 #### together with RLadies İstanbul and RLadies Ankara
 
 
-12.06.2020
+12.06.2020 Saat:20.00
 
 # Sen de yaz yaz yaz RMarkdown ile her istediğini
 
